@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Moroccan, I'm a second year master's student in Biological Sciences of Global Health. I'm a beginner Data Analyst starting my journey in the fascinating world of healthcare data. My goal isn't just to run numbers, but to explain the story hidden in the data especially how everyday choices and risk factors affect our health.
+# ✨ About Me:
+I'm a second year master's student in Biological Sciences of Global Health. I'm a beginner Data Analyst starting my journey in the fascinating world of healthcare data. My goal isn't just to run numbers, but to explain the story hidden in the data especially how everyday choices and risk factors affect our health.
 
 
 ## 🌐 Socials:
